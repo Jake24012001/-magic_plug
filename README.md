@@ -1,2 +1,2 @@
-# MagicPluc
+# MagicPlug
 Mi primera página web:
