@@ -1,2 +1,2 @@
 # cinecabezota
-Mi primera página wed: 00000
+Mi primera página web: 00000
